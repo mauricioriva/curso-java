@@ -1,0 +1,11 @@
+
+Github: https://github.com/patoba/Curso-Java
+
+Netbeans 9 Windows: https://www.youtube.com/watch?v=_awJ1oDCtec
+
+Netbeans 9 Linux Ubuntu:
+
+	$] sudo apt update
+	$] sudo apt install default-jre default-jdk
+
+

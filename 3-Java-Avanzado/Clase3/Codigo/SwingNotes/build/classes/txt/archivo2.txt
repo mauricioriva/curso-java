@@ -1,0 +1,129 @@
+:vvvvvvvvvvvvvvvvvvv
+drwxr-xr-x  20 root     root          4580 ene 23 08:53 .
+drwxr-xr-x  24 root     root          4096 dic 21 16:34 ..
+crw-------   1 root     root     10,    55 ene 23 08:27 acpi_thermal_rel
+crw-r--r--   1 root     root     10,   235 ene 23 08:27 autofs
+drwxr-xr-x   2 root     root           660 ene 23 08:53 block
+drwxr-xr-x   2 root     root            80 ene 23 08:27 bsg
+crw-------   1 root     root     10,   234 ene 23 08:27 btrfs-control
+drwxr-xr-x   3 root     root            60 ene 23 08:27 bus
+lrwxrwxrwx   1 root     root             3 ene 23 08:27 cdrom -> sr0
+lrwxrwxrwx   1 root     root             3 ene 23 08:27 cdrw -> sr0
+drwxr-xr-x   2 root     root          4120 ene 23 08:28 char
+crw-------   1 root     root      5,     1 ene 23 08:27 console
+lrwxrwxrwx   1 root     root            11 ene 23 08:27 core -> /proc/kcore
+drwxr-xr-x   2 root     root            60 ene 23 08:27 cpu
+crw-------   1 root     root     10,    59 ene 23 08:27 cpu_dma_latency
+crw-------   1 root     root     10,   203 ene 23 08:27 cuse
+drwxr-xr-x   7 root     root           140 ene 23 08:27 disk
+drwxr-xr-x   3 root     root           100 ene 23 08:27 dri
+crw-------   1 root     root    244,     0 ene 23 08:27 drm_dp_aux0
+crw-------   1 root     root    244,     1 ene 23 08:27 drm_dp_aux1
+lrwxrwxrwx   1 root     root             3 ene 23 08:27 dvd -> sr0
+lrwxrwxrwx   1 root     root             3 ene 23 08:27 dvdrw -> sr0
+crw-------   1 root     root     10,    61 ene 23 08:27 ecryptfs
+crw-rw----   1 root     video    29,     0 ene 23 08:27 fb0
+lrwxrwxrwx   1 root     root            13 ene 23 08:27 fd -> /proc/self/fd
+crw-rw-rw-   1 root     root      1,     7 ene 23 08:27 full
+crw-rw-rw-   1 root     root     10,   229 ene 23 08:27 fuse
+crw-------   1 root     root     10,   228 ene 23 08:27 hpet
+drwxr-xr-x   2 root     root             0 ene 23 08:27 hugepages
+crw-------   1 root     root     10,   183 ene 23 08:27 hwrng
+crw-------   1 root     root     89,     0 ene 23 08:27 i2c-0
+crw-------   1 root     root     89,     1 ene 23 08:27 i2c-1
+crw-------   1 root     root     89,     2 ene 23 08:27 i2c-2
+crw-------   1 root     root     89,     3 ene 23 08:27 i2c-3
+crw-------   1 root     root     89,     4 ene 23 08:27 i2c-4
+crw-------   1 root     root     89,     5 ene 23 08:27 i2c-5
+crw-------   1 root     root     89,     6 ene 23 08:27 i2c-6
+lrwxrwxrwx   1 root     root            25 ene 23 08:27 initctl -> /run/systemd/initctl/fifo
+drwxr-xr-x   4 root     root           440 ene 23 08:28 input
+crw-r--r--   1 root     root      1,    11 ene 23 08:27 kmsg
+crw-------   1 root     root     10,   232 ene 23 08:28 kvm
+drwxr-xr-x   2 root     root            60 ene 23 08:27 lightnvm
+lrwxrwxrwx   1 root     root            28 ene 23 08:27 log -> /run/systemd/journal/dev-log
+brw-rw----   1 root     disk      7,     0 ene 23 08:27 loop0
+brw-rw----   1 root     disk      7,     1 ene 23 08:27 loop1
+brw-rw----   1 root     disk      7,    10 ene 23 08:27 loop10
+brw-rw----   1 root     disk      7,    11 ene 23 08:27 loop11
+brw-rw----   1 root     disk      7,    12 ene 23 08:27 loop12
+brw-rw----   1 root     disk      7,    13 ene 23 08:27 loop13
+brw-rw----   1 root     disk      7,    14 ene 23 08:27 loop14
+brw-rw----   1 root     disk      7,    15 ene 23 08:27 loop15
+brw-rw----   1 root     disk      7,    16 ene 23 08:28 loop16
+brw-rw----   1 root     disk      7,    17 ene 23 08:28 loop17
+brw-rw----   1 root     disk      7,    18 ene 23 08:28 loop18
+brw-rw----   1 root     disk      7,    19 ene 23 08:28 loop19
+brw-rw----   1 root     disk      7,     2 ene 23 08:27 loop2
+brw-rw----   1 root     disk      7,    20 ene 23 08:28 loop20
+brw-rw----   1 root     disk      7,    21 ene 23 08:28 loop21
+brw-rw----   1 root     disk      7,    22 ene 23 08:54 loop22
+brw-rw----   1 root     disk      7,    23 ene 23 08:28 loop23
+brw-rw----   1 root     disk      7,    24 ene 23 08:53 loop24
+brw-rw----   1 root     disk      7,    25 ene 23 08:53 loop25
+brw-rw----   1 root     disk      7,    26 ene 23 08:53 loop26
+brw-rw----   1 root     disk      7,     3 ene 23 08:27 loop3
+brw-rw----   1 root     disk      7,     4 ene 23 08:27 loop4
+brw-rw----   1 root     disk      7,     5 ene 23 08:27 loop5
+brw-rw----   1 root     disk      7,     6 ene 23 08:27 loop6
+brw-rw----   1 root     disk      7,     7 ene 23 08:27 loop7
+brw-rw----   1 root     disk      7,     8 ene 23 08:27 loop8
+brw-rw----   1 root     disk      7,     9 ene 23 08:27 loop9
+crw-rw----   1 root     disk     10,   237 ene 23 08:27 loop-control
+drwxr-xr-x   2 root     root            60 ene 23 08:27 mapper
+crw-------   1 root     root     10,   227 ene 23 08:27 mcelog
+crw-rw----   1 root     video   242,     0 ene 23 08:28 media0
+crw-------   1 root     root    243,     0 ene 23 08:27 mei0
+crw-r-----   1 root     kmem      1,     1 ene 23 08:27 mem
+crw-------   1 root     root     10,    56 ene 23 08:27 memory_bandwidth
+drwxrwxrwt   2 root     root            40 ene 23 08:27 mqueue
+drwxr-xr-x   2 root     root            60 ene 23 08:27 net
+crw-------   1 root     root     10,    58 ene 23 08:27 network_latency
+crw-------   1 root     root     10,    57 ene 23 08:27 network_throughput
+crw-rw-rw-   1 root     root      1,     3 ene 23 08:27 null
+crw-r-----   1 root     kmem      1,     4 ene 23 08:27 port
+crw-------   1 root     root    108,     0 ene 23 08:27 ppp
+crw-------   1 root     root     10,     1 ene 23 08:27 psaux
+crw-rw-rw-   1 root     tty       5,     2 ene 23 09:19 ptmx
+drwxr-xr-x   2 root     root             0 ene 23 08:27 pts
+crw-rw-rw-   1 root     root      1,     8 ene 23 08:27 random
+crw-rw-r--+  1 root     netdev   10,    62 ene 23 08:27 rfkill
+lrwxrwxrwx   1 root     root             4 ene 23 08:27 rtc -> rtc0
+crw-------   1 root     root    249,     0 ene 23 08:27 rtc0
+brw-rw----   1 root     disk      8,     0 ene 23 08:27 sda
+brw-rw----   1 root     disk      8,     1 ene 23 08:28 sda1
+brw-rw----   1 root     disk      8,     2 ene 23 08:28 sda2
+crw-rw----   1 root     disk     21,     0 ene 23 08:27 sg0
+crw-rw----+  1 root     cdrom    21,     1 ene 23 08:27 sg1
+drwxrwxrwt   2 root     root            60 ene 23 08:28 shm
+crw-------   1 root     root     10,   231 ene 23 08:27 snapshot
+drwxr-xr-x   3 root     root           320 ene 23 08:27 snd
+brw-rw----+  1 root     cdrom    11,     0 ene 23 08:27 sr0
+lrwxrwxrwx   1 root     root            15 ene 23 08:27 stderr -> /proc/self/fd/2
+lrwxrwxrwx   1 root     root            15 ene 23 08:27 stdin -> /proc/self/fd/0
+lrwxrwxrwx   1 root     root            15 ene 23 08:27 stdout -> /proc/self/fd/1
+crw-------   1 root     root     10,   224 ene 23 08:27 tpm0
+crw-------   1 root     root    253, 65536 ene 23 08:27 tpmrm0
+crw-rw-rw-   1 root     tty       5,     0 ene 23 08:27 tty
+crw--w----   1 root     tty       4,     0 ene 23 08:27 tty0
+crw--w----   1 gdm      tty       4,     1 ene 23 08:27 tty1
+crw--w----   1 root     tty       4,    10 ene 23 08:27 tty10
+crw--w----   1 root     tty       4,    11 ene 23 08:27 tty11
+crw--w----   1 root     tty       4,    12 ene 23 08:27 tty12
+crw--w----   1 root     tty       4,    13 ene 23 08:27 tty13
+crw--w----   1 root     tty       4,    14 ene 23 08:27 tty14
+crw--w----   1 root     tty       4,    15 ene 23 08:27 tty15
+crw--w----   1 root     tty       4,    16 ene 23 08:27 tty16
+crw--w----   1 root     tty       4,    17 ene 23 08:27 tty17
+crw--w----   1 root     tty       4,    18 ene 23 08:27 tty18
+crw--w----   1 root     tty       4,    19 ene 23 08:27 tty19
+crw--w----   1 mauricio tty       4,     2 ene 23 08:27 tty2
+crw--w----   1 root     tty       4,    20 ene 23 08:27 tty20
+crw--w----   1 root     tty       4,    21 ene 23 08:27 tty21
+crw--w----   1 root     tty       4,    22 ene 23 08:27 tty22
+crw--w----   1 root     tty       4,    23 ene 23 08:27 tty23
+crw--w----   1 root     tty       4,    24 ene 23 08:27 tty24
+crw--w----   1 root     tty       4,    25 ene 23 08:27 tty25
+crw--w----   1 root     tty       4,    26 ene 23 08:27 tty26
+crw--w----   1 root     tty       4,    27 ene 23 08:27 tty27
+crw--w----   1 root     tty       4,    28 ene 23 08:27

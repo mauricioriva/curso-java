@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Colecciones",
+            "request": "launch",
+            "mainClass": "Colecciones",
+            "projectName": "Tarea_a0cbe012"
+        }
+    ]
+}
